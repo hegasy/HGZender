@@ -29,7 +29,7 @@ HGZender is a Python script that uses an SMTP server to send bulk email messages
 2. Run the script:
    - Open a terminal or command prompt.
    - Navigate to the directory containing the script and the files.
-   - Run the command: `python HGZender.py`.
+   - Run the command: `python main.py`.
    - Follow the prompts to enter the number of threads to use for parallel sending.
 
 3. Monitor the progress:
